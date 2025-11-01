@@ -25,7 +25,7 @@ If you need RTX 5070 Ti AI training solutions, contact for pricing:
 - Enterprise solutions
 
 ### 📧 Contact
-**Email:** gabriela.berger.ai@gmail.com  
+**Email:**gabrielaberger@outlook.de  
 **LinkedIn:** Gabriela Berger
 
 ### ⚠️ Important Notice
@@ -34,4 +34,5 @@ If you need RTX 5070 Ti AI training solutions, contact for pricing:
 - Source code available only to commercial clients
 
 ---
+
 *© 2024 Gabriela Berger - All Rights Reserved*
